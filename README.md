@@ -18,7 +18,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours math terminale STMG
-* ### []()
+* ### [chapitre 1 : suite numérique](http://mathsfg.net.free.fr/terminale/TSTMG2020/suites/suitescoursacompleterTSTMG.pdf)
 * ### []()
 * ### []()
 * ### []()
