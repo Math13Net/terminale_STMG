@@ -33,12 +33,6 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### voir manuel scolaire
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="E3C"></a> problèmes bacs corrigés
-* ### Chapitre 1 : suite numérique
-* #### [sujet 1]() - [corrigé 1]()
-
-
------------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs
 * ### [devoir 1]()
 * ### [devoir 2](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
