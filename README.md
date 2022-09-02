@@ -34,6 +34,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs
+
 * ### [devoir 1]()
 * ### [devoir 2](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
