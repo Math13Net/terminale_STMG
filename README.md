@@ -29,12 +29,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [chap 9 : programmation linéaire](http://mathsfg.net.free.fr/terminale/TSTMG2020/programmationlineaire/programmationlineairecoursacompleterTSTMG.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="exercice"></a> exercice à faire
-* ### Chapitre 0 : 
-* #### []()
-* #### []()
-* #### []()
-
+## <a name="exercice"></a> exercice à faire : voir manuel scolaire
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="E3C"></a> problèmes bacs corrigés
