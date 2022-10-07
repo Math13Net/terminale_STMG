@@ -9,7 +9,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 ## 🔥 [fiche d'exercice](#exercice)
 
-## 🚀 [problème bac corrigé](#E3C)
+## 🚀 [problème bac corrigé](#bac)
 
 ## 👋 [devoir](#devoir)
 
@@ -31,6 +31,12 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
 * ### voir manuel scolaire
+
+-----------------------------------------------------------------------------------------------------------------------------
+## <a name="bac"></a> problème bac corrigé
+* ### [stmg 2020 - sujet et corrigé](https://www.apmep.fr/STMG-2020)
+* ### [stmg 2019 - sujet et corrigé](https://www.apmep.fr/STMG-2019)
+* ### [stmg 2019 - sujet et corrigé](https://www.apmep.fr/STMG-2018)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs
