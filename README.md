@@ -1,4 +1,4 @@
-# :santa: Terminale STMG - Lycée Jean Monnet - Montpellier - 2022/2023
+# :santa: Terminale STMG
 
 Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/
 ---------------------------------------------------------------------------------------------------------------------------
