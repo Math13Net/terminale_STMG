@@ -43,7 +43,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 * ### [devoir 1](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_01.pdf)
 * ### [devoir 2](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_02.pdf)
-* ### [devoir 3](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
+* ### [devoir 3](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_03.pdf)
+* ### [devoir 4](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Progression , matériels ... en terminale STMG au Lycée Jean Monnet - 2022/2023
