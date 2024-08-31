@@ -20,12 +20,13 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 ## <a name="cours"></a> cours math terminale STMG
 * ### [chap 0 : révision 1](https://www.mathsmessciences.com/_files/ugd/d749e9_7c191dd626e8468998f80adb0cf17b1d.pdf)
 * ### [chap 0 : révision 2](https://github.com/Math13Net/terminale_STMG/blob/main/R%C3%A9visions%201%20-%20TSTMG.pdf)
-* ### [chap 1 : ]()
+* ### [chap 1 : suite numérique](https://www.mathsmessciences.com/_files/ugd/d749e9_503dc14cbc46407889beb1475efc9f2d.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
 * ### [chap 0 révisions 1](https://www.mathsmessciences.com/_files/ugd/d749e9_97cd4c9d0a904dc68698ab358af12a9f.pdf)
+* ### [chap 1 : suite numérique](https://www.mathsmessciences.com/_files/ugd/d749e9_99be64d7bb4b46fa911b006fa68e8608.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="bac"></a> problème bac corrigé
