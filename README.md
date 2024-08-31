@@ -18,15 +18,10 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours math terminale STMG
-* ### [chap 1 : suite numérique](http://mathsfg.net.free.fr/terminale/TSTMG2020/suites/suitescoursacompleterTSTMG.pdf)
-* ### [chap 2 : fonction exponentielle](http://mathsfg.net.free.fr/terminale/TSTMG2020/exponentielle/exponentielleCoursACompleterTSTMG.pdf)
-* ### [chap 3 : probabilité conditionnelle](http://mathsfg.net.free.fr/terminale/TSTMG2020/probabilitesConditionnelles/probabilitesConditionnellesCoursACompleterTSTMG.pdf)
-* ### [chap 4 : logarithme décimal](http://mathsfg.net.free.fr/terminale/TSTMG2020/fonctionLog/fonctionLogCoursACompleterTSTMG.pdf)
-* ### [chap 5 : statistique à 2 variables](http://mathsfg.net.free.fr/terminale/TSTMG2020/statistiques/statistiquesCoursACompleterTSTMG.pdf)
-* ### [chap 6 : fonction inverse](http://mathsfg.net.free.fr/terminale/TSTMG2020/fonctionInverse/fonctionInverseCoursAcompleterTSTMG.pdf)
-* ### [chap 7 : variable aléatoire](http://mathsfg.net.free.fr/terminale/TSTMG2020/variablesAleatoires/probabilitesVariablesAleatoireCoursTSTMGacompleter.pdf)
-* ### [chap 8 : loi binomiale](http://mathsfg.net.free.fr/terminale/TSTMG2020/binomiale/binomialeCoursACompleterTSTMG.pdf)
-* ### [chap 9 : programmation linéaire](http://mathsfg.net.free.fr/terminale/TSTMG2020/programmationlineaire/programmationlineairecoursacompleterTSTMG.pdf)
+* ### [chap 0 : révision 1]()
+* ### [chap 0 : révision 2]()
+* ### [chap 1 : ]()
+
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
@@ -51,3 +46,4 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### progression 2022-2023 : voir ci-dessus
 * ### [programme officiel](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/91/4/spe242_annexe_1158914.pdf)
 * ### [bien démarrer avec python](https://xn--petitfut-i1a.com/download/cours-initiation-python/)
+* ### [émulateur calculatrice]()
