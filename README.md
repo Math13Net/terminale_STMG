@@ -18,14 +18,14 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours math terminale STMG
-* ### [chap 0 : révision 1]()
-* ### [chap 0 : révision 2]()
+* ### [chap 0 : révision 1](https://www.mathsmessciences.com/_files/ugd/d749e9_7c191dd626e8468998f80adb0cf17b1d.pdf)
+* ### [chap 0 : révision 2](https://github.com/Math13Net/terminale_STMG/blob/main/R%C3%A9visions%201%20-%20TSTMG.pdf)
 * ### [chap 1 : ]()
 
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
-* ### voir manuel scolaire
+* ### [chap 0 révisions 1](https://www.mathsmessciences.com/_files/ugd/d749e9_97cd4c9d0a904dc68698ab358af12a9f.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="bac"></a> problème bac corrigé
@@ -36,7 +36,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs
 
-* ### [devoir 1](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_01.pdf)
+* ### [devoir 1][(https://www.mathsmessciences.com/_files/ugd/d749e9_97cd4c9d0a904dc68698ab358af12a9f.pdf)
 * ### [devoir 2](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_02.pdf)
 * ### [devoir 3](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_03.pdf)
 * ### [devoir 4](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
