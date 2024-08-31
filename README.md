@@ -43,8 +43,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [devoir 4](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
 -----------------------------------------------------------------------------------------------------------------------------
-## Progression , matériels ... en terminale STMG au Lycée Jean Monnet - 2022/2023
-* ### progression 2022-2023 : voir ci-dessus
+## Progression , matériels ... en terminale STMG au Lycée Jean Monnet - 2024/2025
+* ### progression 2024-2025 : voir ci-dessus
 * ### [programme officiel](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/91/4/spe242_annexe_1158914.pdf)
 * ### [bien démarrer avec python](https://xn--petitfut-i1a.com/download/cours-initiation-python/)
 * ### [émulateur calculatrice](https://github.com/Math13Net/terminale_STMG/blob/main/Emulateurs%20de%20calculatrices.pdf)
