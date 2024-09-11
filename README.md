@@ -35,13 +35,13 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [stmg 2018 - sujet et corrigé](https://www.apmep.fr/STMG-2018-1-sujet)
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a name="devoir"></a> devoirs
+## <a name="devoir"></a> devoirs, jeu
 
 * ### [devoir 1](https://www.mathsmessciences.com/_files/ugd/d749e9_97cd4c9d0a904dc68698ab358af12a9f.pdf)
 * ### [devoir 2](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_02.pdf)
 * ### [devoir 3](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_03.pdf)
 * ### [devoir 4](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
-
+* ### [égnimes mathématiques](https://mathsetnumerik.weebly.com/les-eacutenigmes-de-seconde.html)
 -----------------------------------------------------------------------------------------------------------------------------
 ## Progression , matériels ... en terminale STMG au Lycée Jean Monnet - 2024/2025
 * ### progression 2024-2025 : voir ci-dessus
