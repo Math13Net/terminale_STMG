@@ -37,7 +37,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs, jeu
 
-* ### [devoir 1](https://www.mathsmessciences.com/_files/ugd/d749e9_97cd4c9d0a904dc68698ab358af12a9f.pdf)
+* ### [devoir 1](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_01.pdf)
 * ### [devoir 2](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_02.pdf)
 * ### [devoir 3](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_03.pdf)
 * ### [devoir 4](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
