@@ -21,16 +21,16 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [chap 0 : révision 1](https://www.mathsmessciences.com/_files/ugd/d749e9_7c191dd626e8468998f80adb0cf17b1d.pdf)
 * ### [chap 0 : révision 2](https://github.com/Math13Net/terminale_STMG/blob/main/R%C3%A9visions%201%20-%20TSTMG.pdf)
 * ### [chap 1 : suite numérique](https://www.mathsmessciences.com/_files/ugd/d749e9_503dc14cbc46407889beb1475efc9f2d.pdf)
-* ### [chap 2 : fonction inverse]()
-* ### [chap 3 : ]()
+* ### [chap 2 : fonction inverse](https://www.mathsmessciences.com/_files/ugd/d749e9_a9fbb0643a8a4c51b1ddda986d73f12b.pdf)
+* ### [chap 3 : fonction exponentielle](https://www.mathsmessciences.com/_files/ugd/d749e9_0b8f9cda6b2a43dab33ed43f711804c2.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
 * ### [chap 0 révisions 1](https://www.mathsmessciences.com/_files/ugd/d749e9_97cd4c9d0a904dc68698ab358af12a9f.pdf)
 * ### [chap 1 : suite numérique](https://www.mathsmessciences.com/_files/ugd/d749e9_99be64d7bb4b46fa911b006fa68e8608.pdf)
-* ### [chap 2 : fonction inverse]()
-* ### [chap 3 : ()
+* ### [chap 2 : fonction inverse](https://www.mathsmessciences.com/_files/ugd/d749e9_7d74f1a904ab4e7cbfbd1fc9bf65594f.pdf)
+* ### [chap 3 : fonction exponentielle](https://www.mathsmessciences.com/_files/ugd/d749e9_575304840c0345b3a3a91815efb215c3.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="bac"></a> problème bac corrigé
