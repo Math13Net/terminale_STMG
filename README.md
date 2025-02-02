@@ -24,6 +24,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [chap 2 : fonction inverse](https://www.mathsmessciences.com/_files/ugd/d749e9_a9fbb0643a8a4c51b1ddda986d73f12b.pdf)
 * ### [chap 3 : fonction exponentielle](https://www.mathsmessciences.com/_files/ugd/d749e9_0b8f9cda6b2a43dab33ed43f711804c2.pdf)
 * ### [chap 4 : probabilité conditionnelle](https://www.mathsmessciences.com/_files/ugd/d749e9_33d5582cf0804e4fb83b10867e6c0d86.pdf)
+* ### [chap 5 : logarithme décimal](https://www.mathsmessciences.com/_files/ugd/d749e9_ce6c3105c04e464bb14aa2228bac44d1.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -33,6 +34,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [chap 2 : fonction inverse](https://www.mathsmessciences.com/_files/ugd/d749e9_7d74f1a904ab4e7cbfbd1fc9bf65594f.pdf)
 * ### [chap 3 : fonction exponentielle](https://www.mathsmessciences.com/_files/ugd/d749e9_575304840c0345b3a3a91815efb215c3.pdf)
 * ### [chap 4 : probabilité conditionnelle](https://www.mathsmessciences.com/_files/ugd/d749e9_60f0417665cc4a87bafd088620d19208.pdf)
+* ### [chap 5 : logarithme décimal](https://www.mathsmessciences.com/_files/ugd/d749e9_1aa83d04d9774ae3bbfce12fdf0b44a7.pdf) 
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="bac"></a> problème bac corrigé
