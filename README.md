@@ -49,7 +49,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [devoir 2](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_02.pdf)
 * ### [devoir 3](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_03.pdf)
 * ### [devoir 4](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_04.pdf)
-* ### [devoir 5](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
+* ### [devoir 5](https://github.com/Math13Net/terminale_STMG/blob/main/STMG_DS_04.pdf)
 * ### [égnimes mathématiques](https://mathsetnumerik.weebly.com/les-eacutenigmes-de-seconde.html)
 -----------------------------------------------------------------------------------------------------------------------------
 ## Progression , matériels ... en terminale STMG au Lycée Jean Monnet - 2024/2025
